@@ -1,0 +1,6 @@
+model_checkpoint_path: "0903train-9500"
+all_model_checkpoint_paths: "0903train-7500"
+all_model_checkpoint_paths: "0903train-8000"
+all_model_checkpoint_paths: "0903train-8500"
+all_model_checkpoint_paths: "0903train-9000"
+all_model_checkpoint_paths: "0903train-9500"
